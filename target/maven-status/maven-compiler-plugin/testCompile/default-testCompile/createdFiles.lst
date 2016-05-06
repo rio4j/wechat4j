@@ -1,0 +1,15 @@
+org\sword\wechat4j\WechatTestSuite.class
+org\sword\wechat4j\user\UserTest.class
+org\sword\wechat4j\menu\MenuTest.class
+org\sword\wechat4j\common\MediaFileTest.class
+org\sword\wechat4j\token\AccessTokenServerTest.class
+org\sword\wechat4j\Wechat.class
+org\sword\wechat4j\common\ConfigTest.class
+org\sword\wechat4j\SendMsgTest.class
+org\sword\wechat4j\WechatTest.class
+org\sword\wechat4j\csc\CustomerServicesTest.class
+org\sword\wechat4j\token\TokenProxyTest.class
+org\sword\wechat4j\token\AccessTokenTest.class
+org\sword\wechat4j\user\AccountTest.class
+org\sword\wechat4j\WechatSupportTest.class
+org\sword\wechat4j\token\TicketTest.class
